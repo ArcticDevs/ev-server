@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/restrict-template-expressions */
+/* eslint-disable @typescript-eslint/no-misused-promises */
 import { Action, Entity } from '../../types/Authorization';
 import { Adapter, Room, SocketId } from 'socket.io-adapter';
 import { Server, Socket } from 'socket.io';

@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/await-thenable */
+/* eslint-disable @typescript-eslint/restrict-template-expressions */
 import CentralSystemConfiguration, { CentralSystemImplementation } from './types/configuration/CentralSystemConfiguration';
 
 import AsyncTaskManager from './async-task/AsyncTaskManager';
